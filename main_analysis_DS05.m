@@ -2,7 +2,7 @@ clc
 clear
 
 addpath 'C:\Users\Sandro\Downloads\eeglab2019_1\plugins\Biosig3.3.0\biosig'
-inDir='C:\Users\Sandro\Desktop\CHIARA\mTBI\Data';
+inDir='C:\Users\Sandro\Desktop\CHIARA\DATASET\DS_05\mTBI\Data';
 
 %Declarations
 lf=8;
